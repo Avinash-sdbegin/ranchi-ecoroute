@@ -5,7 +5,32 @@
 > A small AI companion that helps students turn a few minutes of screen time into a practical outdoor plan.
 
 **Plan quickly. Go outside. Touch grass. 🌱**
+## 🖥️ Demo
 
+The prototype runs from Google Colab and launches a Gradio web interface.
+
+### 🔗 Live Demo
+
+[Open Ranchi EcoRoute](https://ddf9596e4bad103783.gradio.live/)
+
+> ⚠️ The Gradio share link is temporary and may expire. The screenshots and source code are included in this repository for reference.
+
+### Example Input
+
+```text
+Outdoor Activity:
+Morning Walk
+
+Custom Activity:
+Leave blank
+
+Time Available:
+45 minutes
+
+Energy Level:
+Low
+
+```
 ## 🤔 Why I Built This
 
 Students often decide they want to go outside, but then spend more time deciding what to do than actually doing it.
